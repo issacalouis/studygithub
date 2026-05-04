@@ -1,4 +1,22 @@
 git push 仓库地址 分支名称
  e.g. git push https//... master
+
+
 ＃＃起别名： git remote add origin(别名，可自定义) https//...
 git push origin master
+
+
+git push -u(记住仓库地址以及分支) origin master
+git push即可
+
+
+git clone 仓库地址
+
+
+cd 文件夹目录名
+
+
+git pull https//... branch
+
+
+.gitignore(依次列出不想被管理的文件名即可)
