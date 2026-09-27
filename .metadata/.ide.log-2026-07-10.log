@@ -1,0 +1,8 @@
+2026-07-10 10:34:30,908 [INFO] Activator:176 - 
+
+
+2026-07-10 10:34:30,916 [INFO] Activator:177 - !SESSION log4j initialized
+2026-07-10 10:34:35,685 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-07-10 22:58:45,669 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connection refused: getsockopt
+2026-07-10 22:58:45,670 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connection refused: getsockopt
+2026-07-10 22:58:45,671 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connection refused: getsockopt
